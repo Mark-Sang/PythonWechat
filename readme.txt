@@ -1,1 +1,1 @@
-Í¼Áé»úÆ÷£ºhttp://www.turingapi.com/
+å›¾çµæœºå™¨api:http://www.turingapi.com/
